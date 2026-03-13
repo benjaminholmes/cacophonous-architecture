@@ -1,1 +1,1 @@
-A sounds based architectural building simulator influenced by Tetris and music games like Rock band. Build using THREE.js
+A sounds based architectural building simulator influenced by Tetris and music games like Rock band. Built using THREE.js
