@@ -1,4 +1,4 @@
 A sounds based architectural building simulator influenced by Tetris and music games like Rock band. Build using THREE.js.
 Has both keyboard and limited Midi drum kit support
 
-https://benjaminholmes.github.io/cacophonous-architecture/
+<a href="https://benjaminholmes.github.io/cacophonous-architecture/" target="_target"> Play here </a>
