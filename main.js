@@ -32,6 +32,7 @@ let countdownInterval;
 let countdownSeconds = 180; //variabe for amount of seconds for countdown timer
 let timerExpired = false; //variable to create boolean for whether timer is expired or not
 
+const fullScreen = document.getElementById("mainGame");
 
 // countdownElement variable
 countdownElement = document.getElementById('countdown');//variable to call countdown div in index.html file
@@ -229,6 +230,7 @@ document.addEventListener('keydown', (event) => {
         start.style.display =  "none";
         countdownElement.style.display = 'block'; // Show the countdown timer
         startCountdown(); // Start the countdown timer
+        fullScreen.requestFullscreen(); 
     }
 });
 

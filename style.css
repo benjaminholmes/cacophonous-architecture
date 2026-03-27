@@ -21,6 +21,7 @@ canvas{
     position: absolute;
     display: block;
     color: white;
+    overflow: auto;
 }
 
 #endscreen{
